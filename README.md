@@ -30,7 +30,7 @@
   
 </div>
   
-<h2 align="center">😳Obrigado pela visita!</h2>
+<h2 align="center">👋Obrigado pela visita!</h2>
   <div align="center">
 <img  src="https://komarev.com/ghpvc/?username=gitlhermesantiago&style=for-the-badge&color=blue&for-the-badge" />
   </div>
