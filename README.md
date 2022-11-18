@@ -32,5 +32,5 @@
   
 <h2 align="center">👋Obrigado pela visita!</h2>
   <div align="center">
-<img  src="https://komarev.com/ghpvc/?username=santiagritzky&style=for-the-badge&color=blue&for-the-badge" />
+
   </div>
