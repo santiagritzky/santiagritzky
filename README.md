@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Html,Css and Js
 - 👯 I’m looking to collaborate on front-end development
-- ⚡ Fun fact: I only wrote this in English to appear smarter
+
 
 <div align="center">
   <a href="https://github.com/santiagritzky">
