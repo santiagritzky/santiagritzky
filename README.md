@@ -1,6 +1,5 @@
 ### Olá! Eu sou o Guilherme Santiago ✌️ 
  
-
  
 <div align="center"> 
   <a href="https://github.com/santiagritzky">
