@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Guilherme Santiago ✌️ 
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santiagritzky&count_private=true&show_icons=true&theme=dark)](https://github-readme-stats-drab-theta.vercel.app)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagritzky&layout=compact&theme=dark&exclude_repo=site-mobile-first,site-barbearia-alura)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagritzky&layout=compact&theme=dark&exclude_repo=site-mobile-first,site-barbearia-alura)](https://github.com/santiagritzky/github-readme-stats)
     
  
 <div style="display: inline_block"><br>
