@@ -1,10 +1,7 @@
-Guilherme Santiago - Desenvolvedor de Software
+Guilherme Santiago 
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes. Aqui você encontrará meus projetos pessoais, contribuições de código aberto e experimentos tecnológicos.
+Bem-vindo ao meu perfil do GitHub! 
 
-Sobre Mim
-
-Sou um entusiasta da programação com experiência em JavaScript, HTML, CSS e C++. Tenho interesse em desenvolvimento web e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Minha paixão é transformar ideias em código funcional e elegante.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,7 +14,9 @@ Sou um entusiasta da programação com experiência em JavaScript, HTML, CSS e C
 Minhas Linguagens Mais Usadas
 
 
+## Minhas Linguagens Mais Usadas
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santiagritzky&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -40,7 +39,9 @@ Sinta-se à vontade para entrar em contato ou me seguir nas redes sociais para a
 
 Visualizações
 
+### Visualizações
 
+![Profile views](https://komarev.com/ghpvc/?username=santiagritzky&color=blue)
 
 
 
