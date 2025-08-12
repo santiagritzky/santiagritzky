@@ -1,26 +1,47 @@
-### Olá! Eu sou o Guilherme Santiago ✌️ 
- 
+Guilherme Santiago - Desenvolvedor de Software
 
-    
- 
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes. Aqui você encontrará meus projetos pessoais, contribuições de código aberto e experimentos tecnológicos.
+
+Sobre Mim
+
+Sou um entusiasta da programação com experiência em JavaScript, HTML, CSS e C++. Tenho interesse em desenvolvimento web e estou sempre buscando aprender novas tecnologias e aprimorar minhas habilidades. Minha paixão é transformar ideias em código funcional e elegante.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icon-git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="icon-cpp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-          
-  
-
-           
 </div>
-   
-##
-  
-<div> 
 
+Minhas Linguagens Mais Usadas
+
+
+
+
+
+
+
+
+
+
+
+Observação: Lembre-se de substituir santiagritzky pelo seu nome de usuário do GitHub para que o gráfico funcione corretamente.
+
+Conecte-se Comigo
+
+Sinta-se à vontade para entrar em contato ou me seguir nas redes sociais para acompanhar meus projetos e atualizações!
+
+<div> 
   <a href="https://instagram.com/santiagritzky" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:guilherme.santiago886@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-santiago-580b10239/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div> 
+
+Visualizações
+
+
+
+
+
+
